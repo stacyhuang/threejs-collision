@@ -4,7 +4,7 @@
   "description": "3D Collision game built with three.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/stacyhuang/threejs-collision/issues"
   },
-  "homepage": "https://github.com/stacyhuang/threejs-collision#readme"
+  "homepage": "https://github.com/stacyhuang/threejs-collision#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
