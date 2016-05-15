@@ -1,0 +1,19 @@
+{
+  "name": "threejs-collision",
+  "version": "1.0.0",
+  "description": "3D Collision game built with three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stacyhuang/threejs-collision.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stacyhuang/threejs-collision/issues"
+  },
+  "homepage": "https://github.com/stacyhuang/threejs-collision#readme"
+}
